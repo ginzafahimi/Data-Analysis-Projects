@@ -31,6 +31,8 @@ But the main focus is on:
 
 3) data preprocessing and feature engineering with Pandas.
 
+![image](https://github.com/ginzafahimi/Data-Analysis-Projects/assets/135096912/e351afaa-95af-4d59-a93f-a999f3244142)
+
 
 You can download the file from:
 
