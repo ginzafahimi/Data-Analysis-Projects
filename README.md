@@ -30,3 +30,8 @@ But the main focus is on:
 2) explanatory data analysis with Pendas and Seabourne to understand the data and to select and create appropriate features and also to select an appropriate model.
 
 3) data preprocessing and feature engineering with Pandas.
+
+
+You can download the file from:
+
+https://github.com/sonarsushant/California-House-Price-Prediction/blob/master/housing.csv
