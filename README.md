@@ -1,4 +1,4 @@
-# Data-Analysis-Projects
+# Predicting House Prices
 
 In this project we are going to predict house prices from district of California by training and
 
